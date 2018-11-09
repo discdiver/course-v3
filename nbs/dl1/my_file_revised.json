@@ -1,0 +1,1 @@
+{"data":[{"type":"scatter","y":[1,2,3],"mode":"lines+markers"}],"layout":{"autosize":true,"xaxis":{"range":[-0.16293532338308456,2.1629353233830844],"autorange":true},"yaxis":{"type":"linear","range":[0.8702835454342487,3.1297164545657514],"autorange":true},"title":"This Chart now has a title"},"frames":[]}
